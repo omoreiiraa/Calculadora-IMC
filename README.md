@@ -41,4 +41,5 @@ O IMC é classificado nas seguintes categorias:
 -Navegação entre Activities: Organizar corretamente a passagem de dados entre telas usando
 
 ### 🚀 Como Executar:
-1. Clone o repositório:
+ ```bash
+1. Clone o repositório: https://github.com/omoreiiraa/Calculadora-IMC.git
