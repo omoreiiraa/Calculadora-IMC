@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores do Projeto -->
+    <color name="appColor1">#006341</color>
+    <color name="appColor2">#00A859</color>
+    <color name="appColor3">#4D4D4D</color>
+    <color name="appColor4">#B3B3B3</color>
+    <color name="appColor5">#FFFFFF</color>
+
+    <!-- String do Projeto -->
+    <string name="appTitulo">Calculadora de IMC</string>
+    <string name="appBtnSet">Calculadora IMC</string>
+    <string name="appBtnLimpar">Limpar</string>
+    <string name="appBtnVoltar">Voltar</string>
+    <string name="appPlan1">Peso (kg): </string>
+    <string name="appPlan2">Altura (m): </string>
+    <string name="appPlan3">IMC: </string>
+    <string name="appResultado">-----</string>
+    <string name="appTitulo1">Abaixo do Peso</string>
+    <string name="appFrase1">Seu corpo é único e merece ser fortalecido</string>
+    <string name="appTitulo2">Peso Normal</string>
+    <string name="appFrase2">Mantenha o equilíbrio e siga cuidando de você</string>
+    <string name="appTitulo3">Sobrepeso</string>
+    <string name="appFrase3">Cada pequeno passo conta</string>
+    <string name="appTitulo4">Obesidade grau 1</string>
+    <string name="appFrase4">Seu bem-estar é uma jornada<jornada></jornada></string>
+    <string name="appTitulo5">Obesidade grau 2</string>
+    <string name="appFrase5">Pequenas mudanças criam grandes conquistas</string>
+    <string name="appTitulo6">Obesidade grau 3</string>
+    <string name="appFrase6">Cada passo rumo à saúde é uma vitória</string>
+
+</resources>
